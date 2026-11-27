@@ -1,0 +1,16 @@
+[
+  "tests/test_density.py::test_ema_smoothing_dampens_single_frame_spikes",
+  "tests/test_density.py::test_empty_and_saturated_roads_clamp_cleanly",
+  "tests/test_density.py::test_pcu_weighting_reflects_indian_vehicle_mix",
+  "tests/test_integration.py::test_simulation_engine_end_to_end",
+  "tests/test_integration.py::test_streamlit_dashboard_renders_without_errors",
+  "tests/test_perception.py::test_detector_and_counter_on_sample_videos",
+  "tests/test_perception.py::test_roi_counter_filters_outside_detections",
+  "tests/test_signal_control.py::test_adaptive_outperforms_fixed_timer_under_asymmetric_load",
+  "tests/test_signal_control.py::test_green_duration_scales_with_density",
+  "tests/test_signal_control.py::test_phase_fsm_transitions_green_yellow_all_red",
+  "tests/test_signal_control.py::test_starvation_prevention_serves_waiting_low_density_road",
+  "tests/test_video_manager.py::test_multi_road_manager_synthetic",
+  "tests/test_video_manager.py::test_road_stream_resizes_and_loops",
+  "tests/test_video_manager.py::test_sample_videos_download_and_open"
+]
