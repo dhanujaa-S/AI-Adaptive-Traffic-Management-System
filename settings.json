@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\Dhanujaa S\\Downloads\\adaptive-traffic-india\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "e4a4dc0c00655eed2c02def049e3909d7d602df218d99ce70eb976eef56705a4",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
